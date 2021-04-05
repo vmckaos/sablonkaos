@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+##VMC KAOS™ ~ 0812 2727 7298 ~ JOGJA
 
 You can use the [editor on GitHub](https://github.com/vmckaos/sablonkaos/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
